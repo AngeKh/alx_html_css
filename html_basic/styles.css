@@ -1,0 +1,51 @@
+.flex_a
+{
+    display:flex;
+    flex-direction: column;
+    
+    
+}
+.flex_b
+{
+    display:flex;
+    flex-direction: row;
+    flex:auto;
+    
+}
+
+.flex_c
+{
+    background-color: bisque;
+    color:darkslateblue;
+    overflow-y: auto;
+    flex:2;
+}
+.flex_d
+{
+    background-color:lavenderblush;
+    color:darkslategrey;
+    overflow-y: auto;
+    flex:1;
+}
+.border
+{
+    border-style: groove;
+    border-color: black;
+    border-width: 2px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.table
+{
+    background-color:ivory;
+    margin-left: auto;
+    margin-right: auto;
+
+    
+}
+.logo
+{
+ height:40px;
+ width:40px;
+}
